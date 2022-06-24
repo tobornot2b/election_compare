@@ -1,0 +1,15 @@
+/.ipynb_checkpoints/
+중앙선거관리위원회 국회의원선거 개표결과 정보_20200415/
+선관위 스크랩/
+
+*.dll
+*.xlsx
+*.ipynb
+*.png
+*.zip
+
+!1_2_총선_대선_득표율비교_파일.ipynb
+!2_1_20대_대통령선거_스크랩.ipynb
+!2_2_21대_국회의원선거_스크랩.ipynb
+!2_3_electiom_compare.ipynb
+
